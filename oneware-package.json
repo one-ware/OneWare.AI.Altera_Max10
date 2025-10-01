@@ -1,0 +1,37 @@
+{
+    "category": "OneAI Support",
+    "type": "Hardware",
+    "name": "OneAI Altera MAX10 Support",
+    "id": "OneWare.AI.Altera_MAX10",
+    "description": "Altera MAX10 support for OneAI Extension",
+    "iconUrl": "https://raw.githubusercontent.com/one-ware/OneWare.AI.Altera_MAX10/main/Icon.png",
+    "license": "MIT",
+    "tabs": [
+      {
+        "title": "Readme",
+        "contentUrl": "https://raw.githubusercontent.com/one-ware/OneWare.AI.Altera_MAX10/main/README.md"
+      },
+      {
+        "title": "License",
+        "contentUrl": "https://raw.githubusercontent.com/one-ware/OneWare.AI.Altera_MAX10/main/LICENSE"
+      }
+    ],
+    "links": [
+      {
+        "name": "Github",
+        "url": "https://github.com/one-ware/OneWare.AI.Altera_MAX10"
+      }
+    ],
+    "versions": [
+      {
+        "version": "1.0",
+        "targets": [
+          {
+            "target": "all",
+            "url": "https://github.com/one-ware/OneWare.AI.Altera_MAX10/releases/download/1.0/OneWare.AI.Altera_MAX10-1.0-all.zip"
+          }
+        ]
+      }
+    ]
+  }
+  

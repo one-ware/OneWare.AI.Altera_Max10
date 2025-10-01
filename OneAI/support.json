@@ -1,0 +1,29 @@
+{
+	"configurationName": "ALTERA_MAX_10",
+    "hardwareType": "FPGA", 
+    "prioritizeSpeedOptimization": false, 
+    "dspGroups": 1, 
+    "prioritizeMemoryOptimization": true,
+    "memoryLimitUnit": "KB",
+    "optimizeForParallelExecution": true,
+    "quantizedCalculations": true,
+    "bitsPerValue": 8,
+    "types": [
+        {
+            "name": "10M02",
+            "computeCapability": 2240,
+            "computeCapabilityUnit": "MOPS",
+            "dspBlocks": 32,
+            "memoryLimit": 13,
+            "memoryLimitUnit": "KB"
+        },
+        {
+            "name": "10M50",
+            "computeCapability": 20160, 
+            "computeCapabilityUnit": "MOPS",
+            "dspBlocks": 288,
+            "memoryLimit": 204,
+            "memoryLimitUnit": "KB"
+        }
+    ]
+}
