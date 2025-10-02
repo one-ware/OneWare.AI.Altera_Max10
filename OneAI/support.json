@@ -1,8 +1,8 @@
 {
-	"configurationName": "ALTERA_MAX_10",
-    "hardwareType": "FPGA", 
-    "prioritizeSpeedOptimization": false, 
-    "dspGroups": 1, 
+    "configurationName": "ALTERA_MAX_10",
+    "hardwareType": "FPGA",
+    "prioritizeSpeedOptimization": false,
+    "dspGroups": 1,
     "prioritizeMemoryOptimization": true,
     "memoryLimitUnit": "KB",
     "optimizeForParallelExecution": true,
@@ -18,8 +18,48 @@
             "memoryLimitUnit": "KB"
         },
         {
+            "name": "10M04",
+            "computeCapability": 2800,
+            "computeCapabilityUnit": "MOPS",
+            "dspBlocks": 40,
+            "memoryLimit": 23,
+            "memoryLimitUnit": "KB"
+        },
+        {
+            "name": "10M08",
+            "computeCapability": 3360,
+            "computeCapabilityUnit": "MOPS",
+            "dspBlocks": 48,
+            "memoryLimit": 47,
+            "memoryLimitUnit": "KB"
+        },
+        {
+            "name": "10M16",
+            "computeCapability": 6300,
+            "computeCapabilityUnit": "MOPS",
+            "dspBlocks": 90,
+            "memoryLimit": 68,
+            "memoryLimitUnit": "KB"
+        },
+        {
+            "name": "10M25",
+            "computeCapability": 7700,
+            "computeCapabilityUnit": "MOPS",
+            "dspBlocks": 110,
+            "memoryLimit": 84,
+            "memoryLimitUnit": "KB"
+        },
+        {
+            "name": "10M40",
+            "computeCapability": 17500,
+            "computeCapabilityUnit": "MOPS",
+            "dspBlocks": 250,
+            "memoryLimit": 157,
+            "memoryLimitUnit": "KB"
+        },
+        {
             "name": "10M50",
-            "computeCapability": 20160, 
+            "computeCapability": 20160,
             "computeCapabilityUnit": "MOPS",
             "dspBlocks": 288,
             "memoryLimit": 204,
