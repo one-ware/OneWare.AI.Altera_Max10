@@ -1,5 +1,6 @@
 {
     "configurationName": "ALTERA_MAX_10",
+    "displayName": "Altera™ Max® 10",
     "hardwareType": "FPGA",
     "prioritizeSpeedOptimization": false,
     "dspGroups": 1,
